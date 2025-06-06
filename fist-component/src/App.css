@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0px;
+}
+
+#root {
+  padding: 0px;
+  margin: 0px;
+}
+
+h1 {
+  color: blue;
+  font-size: 2em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: left;
+  margin-top: 0px;
+}
